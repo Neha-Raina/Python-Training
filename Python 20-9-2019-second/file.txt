@@ -1,0 +1,8 @@
+1,Mouse,250
+2,pen drive,400
+3,key board,300
+4,Head Phones,40
+5,Head Phones,600
+101,Marker,45
+102,water Bottle,150
+103,Lunch Box,200
